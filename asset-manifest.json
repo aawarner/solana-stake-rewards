@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/solana-stake-rewards/static/css/main.f9bc98bc.chunk.css",
-    "main.js": "/solana-stake-rewards/static/js/main.c6e6d4fb.chunk.js",
-    "main.js.map": "/solana-stake-rewards/static/js/main.c6e6d4fb.chunk.js.map",
+    "main.js": "/solana-stake-rewards/static/js/main.c2ec9a09.chunk.js",
+    "main.js.map": "/solana-stake-rewards/static/js/main.c2ec9a09.chunk.js.map",
     "runtime-main.js": "/solana-stake-rewards/static/js/runtime-main.779efcc0.js",
     "runtime-main.js.map": "/solana-stake-rewards/static/js/runtime-main.779efcc0.js.map",
     "static/js/2.937d1b89.chunk.js": "/solana-stake-rewards/static/js/2.937d1b89.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.779efcc0.js",
     "static/js/2.937d1b89.chunk.js",
     "static/css/main.f9bc98bc.chunk.css",
-    "static/js/main.c6e6d4fb.chunk.js"
+    "static/js/main.c2ec9a09.chunk.js"
   ]
 }
